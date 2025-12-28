@@ -1,0 +1,42 @@
+[
+    {
+        "nome": "Jack Prime",
+        "score": 30,
+        "diff": "?????"
+    },
+    {
+        "nome": "Jack",
+        "score": 15,
+        "diff": "impossible"
+    },
+    {
+        "nome": "Jack",
+        "score": 15,
+        "diff": "impossible"
+    },
+    {
+        "nome": "Carlos",
+        "score": 8,
+        "diff": "hard"
+    },
+    {
+        "nome": "Carlos",
+        "score": 8,
+        "diff": "hard"
+    },
+    {
+        "nome": "Carlos",
+        "score": 5,
+        "diff": "easy"
+    },
+    {
+        "nome": "Carlos",
+        "score": 5,
+        "diff": "impossible"
+    },
+    {
+        "nome": "Carlos",
+        "score": 3,
+        "diff": "easy"
+    }
+]
